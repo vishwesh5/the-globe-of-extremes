@@ -164,7 +164,7 @@ features.append(Feature(geometry=point, properties={"facts": fact,
 
 # Rastatt, Germany
 point = Point((48.8591174,8.2059096))
-fact = "BRxx"
+fact = "BR: 177,247,243"
 country = "Germany"
 name = "Rastatt"
 
@@ -174,7 +174,7 @@ features.append(Feature(geometry=point, properties={"facts": fact,
 
 # Sindelfingen, Germany
 point = Point((48.707456,9.004405))
-fact = "BRxx"
+fact = "BR: 257,214,223,297,192,290"
 country = "Germany"
 name = "Sindelfingen"
 
